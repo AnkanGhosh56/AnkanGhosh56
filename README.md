@@ -8,6 +8,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankanghosh56&label=Profile%20views&color=0e75b6&style=flat" alt="ankanghosh56" /> </p>
 
 - 🌱 I’m currently learning **AIML, DSA.**
+  
+-  👀I’m interested in learning **new technologies.**
 
 - 📫 How to reach me **aghosh019848@gmail.com**
 
