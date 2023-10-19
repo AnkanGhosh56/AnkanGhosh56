@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ankan Ghosh</h1>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 <h3 align="center">Computer Science Engineering Student | AI-ML Enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/41I-iMyClCgAAAAd/programmer-programming.gif">
 
