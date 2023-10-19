@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ankan Ghosh</h1>
 <h3 align="center">Computer Science Engineering Student | AI-ML Enthusiast</h3>
-<img align="right" alt="Coding" width="400" src="https://tenor.com/view/spike-monkey-typing-gif-10973398](https://media.tenor.com/pPKOYQpTO8AAAAAd/monkey-developer.gif">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/pPKOYQpTO8AAAAAd/monkey-developer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankanghosh56&label=Profile%20views&color=0e75b6&style=flat" alt="ankanghosh56" /> </p>
 
