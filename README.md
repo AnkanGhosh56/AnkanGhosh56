@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ankan Ghosh</h1>
 <div align="center">
-  <img src="https://gist.github.com/patevs/b007a0e98fb216438d4cbf559fac4166.js">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 <h2 align="center">Computer Science Engineering Student | AI-ML Enthusiast</h2>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/41I-iMyClCgAAAAd/programmer-programming.gif">
