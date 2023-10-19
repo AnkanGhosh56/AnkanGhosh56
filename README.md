@@ -2,7 +2,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-<h3 align="center">Computer Science Engineering Student | AI-ML Enthusiast</h3>
+<h2 align="center">Computer Science Engineering Student | AI-ML Enthusiast</h2>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/41I-iMyClCgAAAAd/programmer-programming.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankanghosh56&label=Profile%20views&color=0e75b6&style=flat" alt="ankanghosh56" /> </p>
