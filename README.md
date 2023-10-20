@@ -45,4 +45,6 @@
 
 [![An image of @ankanghosh56's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ankanghosh56)](https://holopin.io/@ankanghosh56)
 
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/AnkanGhosh56?style=social"/> 
+
 <h1 align="center">Show some ❤ by starring some of the repositories!</h1>
