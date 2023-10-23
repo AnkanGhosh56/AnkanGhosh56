@@ -41,8 +41,9 @@
 ## 🚀 Projects :keyboard:
 
 | 📌Topics |  📎Links |
-| :-: | :-: |
+| :-: | :-: | :-: |
 | Instagram Clone | [@Click Me!!](https://jzirbc.csb.app) |
+| Simple Calculator | [@Click Me!!](https://ankanghosh56.github.io/Calculator/calc.html) |
 | Web Tech 2.0 | [@Click Me!!](https://aghosh019848.wixsite.com/wadhwani) | 
  
 
