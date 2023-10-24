@@ -62,9 +62,7 @@
   </a>
 </p>
 
-<a> 
-    <a href="https://github.com/ankanghosh56"><img alt="ankanghosh56 Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=ankanghosh56&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-</a>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankanghosh56&show_icons=true&locale=en" alt="ankanghosh56" /></p>
 
 
 
