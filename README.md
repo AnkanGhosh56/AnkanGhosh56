@@ -12,6 +12,8 @@
 -  👀I’m interested in learning **new technologies.**
 
 - 📫 How to reach me **aghosh019848@gmail.com**
+  
+- 📖 📚 Skilled in reading books!📕 🖥️
 
 - ⚡ Fun fact **Fun with programming tricks**
 
