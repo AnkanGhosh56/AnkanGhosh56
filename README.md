@@ -55,7 +55,11 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankanghosh56&show_icons=true&locale=en" alt="ankanghosh56" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankanghosh56&" alt="ankanghosh56" /></p>
+<p align="center">
+  <a href="https://github.com/AnkanGhosh56">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankanghosh56&theme=radical&border=7F3FBF&background=0D1117" alt="ankanghosh56 GitHub streak"/>
+  </a>
+</p>
 
 [![An image of @ankanghosh56's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ankanghosh56)](https://holopin.io/@ankanghosh56)
 
