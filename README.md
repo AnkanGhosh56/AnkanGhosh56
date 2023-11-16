@@ -47,6 +47,7 @@
 | Instagram Clone | [@Live Demo!!](https://jzirbc.csb.app) |
 | MS-Paint | [@Live Demo!!](https://cliffwork65.github.io/take/) |
 | Pokédex | [@Live Demo!!](https://ankanghosh56.github.io/Pokedex/) |
+| Insect Game | [@Live Demo!!](https://ankanghosh56.github.io/Insect_Catcher/) |
 | Simple Calculator | [@Live Demo!!](https://ankanghosh56.github.io/Calculator/calc.html) |
 | Web Tech 2.0 | [@Live Demo!!](https://aghosh019848.wixsite.com/wadhwani) | 
  
