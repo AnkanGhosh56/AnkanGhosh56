@@ -43,10 +43,11 @@
 
 | 📌Topics |  📎Links |
 | :-: | :-: |
-| Portfolio | [@Click Me!!](https://ankanghosh56.github.io/Portfolio/) |
-| Instagram Clone | [@Click Me!!](https://jzirbc.csb.app) |
-| Simple Calculator | [@Click Me!!](https://ankanghosh56.github.io/Calculator/calc.html) |
-| Web Tech 2.0 | [@Click Me!!](https://aghosh019848.wixsite.com/wadhwani) | 
+| Portfolio | [@Live Demo!!](https://ankanghosh56.github.io/Portfolio/) |
+| Instagram Clone | [@Live Demo!!](https://jzirbc.csb.app) |
+| MS-Paint | [@Live Demo!!](https://cliffwork65.github.io/take/) |
+| Simple Calculator | [@Live Demo!!](https://ankanghosh56.github.io/Calculator/calc.html) |
+| Web Tech 2.0 | [@Live Demo!!](https://aghosh019848.wixsite.com/wadhwani) | 
  
 
 </p>
