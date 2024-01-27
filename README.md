@@ -1,8 +1,8 @@
-<h1 align="center">Hi there, I'm Ankan Ghosh <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/>👨‍💻</h1>
+<h1 align="center">Hi there, I'm Ankan Ghosh <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h1>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-<h2 align="center">Computer Science Engineering Student | AI-ML Enthusiast</h2>
+<h2 align="center">Computer Science Engineering Student👨‍💻 | AI-ML Enthusiast</h2>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/41I-iMyClCgAAAAd/programmer-programming.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankanghosh56&label=Profile%20views&color=0e75b6&style=flat" alt="ankanghosh56" /> </p>
