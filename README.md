@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, Welcome to my GitHub 👨‍💻</h1>
+<h1 align="center">Hi there, I'm Ankan Ghosh <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/>👨‍💻</h1>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
