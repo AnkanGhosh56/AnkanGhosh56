@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently a CSE undergrad
   
--  👀 I’m interested in learning **new technologies.**
+-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="22" height="22" /> I’m interested in learning **new technologies.**
 
 - 📫 How to reach me **aghosh019848@gmail.com**
   
