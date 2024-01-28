@@ -15,7 +15,7 @@
   
 - 📖 📚 Skilled in reading books!📕 🖥️
   
-- 💬 Ask me about AIML, DSA, Web development and gaming.
+- 💬<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Crystal%20Ball.png" alt="Crystal Ball" width="22" height="22" /> Ask me about AIML, DSA, Web development and gaming.
 
 - ⚡ Fun fact **Fun with programming tricks**
 
