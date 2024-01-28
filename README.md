@@ -51,7 +51,11 @@
 | Insect Game | [@Live Demo!!](https://ankanghosh56.github.io/Insect_Catcher/) |
 | Simple Calculator | [@Live Demo!!](https://ankanghosh56.github.io/Calculator/calc.html) |
 | Web Tech 2.0 | [@Live Demo!!](https://aghosh019848.wixsite.com/wadhwani) | 
- 
+
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 ## 📊 GitHub Stats:
 <p align="center">
