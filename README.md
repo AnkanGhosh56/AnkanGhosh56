@@ -167,12 +167,9 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankanghosh56&show_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"height="155px" width="42%" alt="ankanghosh56" /></p><br>
 
 
-[![An image of @ankanghosh56's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ankanghosh56)](https://holopin.io/@ankanghosh56)
-
-
 <summary><h2>🏷️ Holopin Badges</h2></summary>
 
-  <p><a href="https://holopin.io/@denvercoder1"><img src="https://holopin.me/denvercoder1" alt="@denvercoder1&#39;s Holopin board"></a></p>
+  <p><a href="https://holopin.io/@ankanghosh56"><img src="https://holopin.me/ankanghosh56" alt="ankanghosh56 Holopin board"></a></p>
 
 
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/AnkanGhosh56?style=social"/> 
