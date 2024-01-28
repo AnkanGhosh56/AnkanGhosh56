@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Ankan Ghosh <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h1>
 <div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzdueW4wZnZoaWdmNDM3Z2R2eWZjbmJicW93emdxdWIxaDBkYnhnMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="600" height="500"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzdueW4wZnZoaWdmNDM3Z2R2eWZjbmJicW93emdxdWIxaDBkYnhnMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="300" height="400"/>
 </div>
 <h1 align="left">💫 About Me: </h1>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/41I-iMyClCgAAAAd/programmer-programming.gif">
