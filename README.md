@@ -61,7 +61,12 @@
 </p>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ankanghosh56&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"height="192px" width="49.5%" alt="ankanghosh56" /></p>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankanghosh56&show_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"height="155px" width="42%" alt="ankanghosh56" /></p><br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankanghosh56&show_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"height="155px" width="42%" alt="ankanghosh56" /></p><br>
+
+</p>
+<br/>
+<hr/>
+<br/>
 
 
 [![An image of @ankanghosh56's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ankanghosh56)](https://holopin.io/@ankanghosh56)
