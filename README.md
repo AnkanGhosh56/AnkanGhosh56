@@ -53,11 +53,6 @@
 | Web Tech 2.0 | [@Live Demo!!](https://aghosh019848.wixsite.com/wadhwani) | 
  
 
-</p>
-<br/>
-<hr/>
-<br/>
-
 ## 📊 GitHub Stats:
 <p align="center">
   <a href="https://github.com/AnkanGhosh56">
