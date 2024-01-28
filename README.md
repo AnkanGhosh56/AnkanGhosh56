@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently a CSE undergrad
   
--  👀I’m interested in learning **new technologies.**
+-  👀 I’m interested in learning **new technologies.**
 
 - 📫 How to reach me **aghosh019848@gmail.com**
   
