@@ -3,7 +3,7 @@
   <img src="https://media4.giphy.com/media/ZVik7pBtu9dNS/giphy.gif?cid=ecf05e47k4uh11f24g40kji68zb249g53wjn9vhgmqjf08yd&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="600" height="300"/>
 </div>
 <h1 align="left">💫 About Me: </h1>
-<img align="right" alt="Coding" width="400" height="400" src="https://drive.google.com/file/d/1hmibA8RhoydqyPkesvnKuk_omapljTKg/view?usp=sharing">
+<img align="right" alt="Coding" width="400" height="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW85bGp3cWFpMnZrbHFmY2o5dnNyemJscG15c2c0NzN0dWs0ZTJ0biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/b25onN3Qm2ETuI5p7l/giphy.gif">
 
 <img src="https://komarev.com/ghpvc/?username=ankanghosh56&label=Profile%20views&color=0e75b6&style=flat&color=blueviolet" alt="ankanghosh56" />
 
