@@ -15,7 +15,7 @@
   
 - 📖 📚 Skilled in reading books!📕 🖥️
   
-- 💬 Ask me about AIML, DSA, Web development and gaming
+- 💬 Ask me about AIML, DSA, Web development and gaming.
 
 - ⚡ Fun fact **Fun with programming tricks**
 
