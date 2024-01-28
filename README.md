@@ -2,7 +2,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-<h1 align="left">💫 About Me:<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Flying%20Saucer.png" alt="Flying Saucer" width="28" height="28" align="center"/></p><p align="left"></h1>
+<h1 align="left">💫 About Me: <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Flying%20Saucer.png" alt="Flying Saucer" width="28" height="28" align="center"/></p><p align="left"></h1>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/41I-iMyClCgAAAAd/programmer-programming.gif">
 
 <img src="https://komarev.com/ghpvc/?username=ankanghosh56&label=Profile%20views&color=0e75b6&style=flat" alt="ankanghosh56" />
