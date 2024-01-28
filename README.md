@@ -2,7 +2,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-<h1 align="left">💫 About Me:</h1>
+<h1 align="left">💫 About Me: 🌠</h1>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/41I-iMyClCgAAAAd/programmer-programming.gif">
 
 <img src="https://komarev.com/ghpvc/?username=ankanghosh56&label=Profile%20views&color=0e75b6&style=flat&color=blueviolet" alt="ankanghosh56" />
