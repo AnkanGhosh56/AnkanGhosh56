@@ -167,7 +167,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankanghosh56&show_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"height="155px" width="42%" alt="ankanghosh56" /></p><br>
 
 
-<h2>🏷️ Holopin Badges</h2>
+<summary><h2>🏷️ Holopin Badges</h2></summary>
 
 <p><a href="https://holopin.io/@ankanghosh56"><img src="https://holopin.me/ankanghosh56" alt="ankanghosh56 Holopin board"></a></p>
 
