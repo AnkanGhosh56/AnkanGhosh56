@@ -23,8 +23,9 @@
 </p>
 
 ## 🌐 Socials:
+<a href="https://www.instagram.com/_a_tough_guy_/" target="blank"><img align="center" src="instagram.png" alt="_a_tough_guy_" height="30" width="30" />&nbsp;</a>
  <a href="https://www.linkedin.com/in/ankan-ghosh65" target="blank"><img align="center" src="linkedin.png" alt="ankan-ghosh65" height="30" width="30" />&nbsp;</a>
-  <a href="https://www.instagram.com/_a_tough_guy_/" target="blank"><img align="center" src="instagram.png" alt="_a_tough_guy_" height="30" width="30" />&nbsp;</a>
+  
 
 
 ## 💻 Tech Stack:
