@@ -5,7 +5,7 @@
 <h3 align="center">A passionate Full Stack Developer || 💻Coding Enthusiast || 🌱Open-Source intermediate from India</h3>
 
 <h1 align="left">💫 About Me: </h1>
-<img align="right" alt="Coding" width="400" height="300" src="https://media2.giphy.com/media/ySpxjJmsq9gsw/giphy.gif?cid=ecf05e47j7vmg5k2hgrlg1llifqgijydszbqmhcoftq2t7zz&ep=v1_gifs_related&rid=giphy.gif&ct=g">
+<img align="right" alt="Coding" width="500" height="300" src="https://media2.giphy.com/media/ySpxjJmsq9gsw/giphy.gif?cid=ecf05e47j7vmg5k2hgrlg1llifqgijydszbqmhcoftq2t7zz&ep=v1_gifs_related&rid=giphy.gif&ct=g">
 
 <img src="https://komarev.com/ghpvc/?username=ankanghosh56&label=Profile%20views&color=0e75b6&style=flat&color=blueviolet" alt="ankanghosh56" />
 
