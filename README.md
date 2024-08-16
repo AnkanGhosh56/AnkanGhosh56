@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWtpODVhejd4czV0Z3ZrNDVsYmJ1dGIyNjgzdHZ6ZHk4cDc2a2F5YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/megheYiPiRKKr6cXQp/giphy.gif" width="600" height="300"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGlzaDluczhvaXJ6YTRsMHY3eHh6c3V0aGFxZ3M1M3VsY2dpNDV1dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/At8xFAHZPGBACQoM2e/giphy.gif" width="600" height="300"/>
 </div>
 <h1 align="center">Hi there, I'm Ankan Ghosh <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h1>
 <h3 align="center">A passionate Full Stack Developer || 💻Coding Enthusiast || 🌱Open-Source intermediate from India</h3>
