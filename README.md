@@ -9,7 +9,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=ankanghosh56&label=Profile%20views&color=0e75b6&style=flat&color=blueviolet" alt="ankanghosh56" />
 
-- 🌱 I’m currently a CSE undergrad.....
+- 🌱 I’m currently a CSE undergrad
   
 -  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="22" height="22" /> I’m interested in learning **new technologies.**
 
