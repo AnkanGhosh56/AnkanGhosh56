@@ -178,4 +178,4 @@
 
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/AnkanGhosh56?style=social"/> 
 
-<h1 align="center">Show some ❤ by starring some of the repositories!🌠.....</h1>
+<h1 align="center">Show some ❤ by starring some of the repositories!🌠</h1>
